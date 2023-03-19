@@ -374,13 +374,14 @@ Elsa
 
 
 
-    CAPTION = """
-•───────────────────•
-📁 ➤ 𝒀𝒐𝒖𝒓 𝑭𝒊𝒍𝒆 𝑵𝒂𝒎𝒆 : {file_name}
-🧲 ➤ 𝒀𝒐𝒖𝒓 𝑭𝒊𝒍𝒆 𝑺𝒊𝒛𝒆 : {file_size}
-✮ 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰 » <a href='https://t.me/nasrani_update'>nasrani_update</a>
-✮ 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰 » @nasrani_update
-◈ ━━━━━━━━ ● ━━━━━━━ ◈"""
+    CAPTION = """<b>@at3movies {file_name}
+╭────── • ◆ • ──────╮
+📮ᴊᴏɪɴ : <a href='https://t.me/New_Movies_Fastly'>ᴄʜᴀɴɴᴇʟ</a>
+🔖 ᴍᴏᴠɪᴇs : <a href='https://t.me/at3movies'>ɢʀᴏᴜᴘ</a>
+🖤 Dᴀʀᴋ Mᴏᴅᴇ : <a href='https://t.me/addtheme/DQ_The_File_Donor_Theme'>Tᴏᴜᴄʜ</a>
+╰────── • ◆ • ──────╯
+  ♡ ㅤ  ❍ㅤ     ⎙     ⌲
+  ˡᶦᵏᵉ ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ</b>"""
 
 
 
